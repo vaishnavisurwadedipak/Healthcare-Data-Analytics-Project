@@ -1,7 +1,7 @@
-# 🏥 Healthcare Data Analytics Project — VariantAI Internship
+# 🏥 Healthcare Data Analytics Project 
 
 ## 🧠 Project Overview
-This project was developed during my internship at **VariantAI** to analyze healthcare operations data and derive key business insights.  
+This project was developed during my Data Analytics Learning Phase. This Project is analysis for healthcare operations data and derive key business insights.  
 It integrates **Excel, Power BI, Tableau, and SQL** to build a unified analytics system for hospitals and clinics.
 
 ## 📊 Project Objective
@@ -67,6 +67,6 @@ To identify trends in patient care, doctor workload, treatment costs, and diagno
 ---
 
 ## 👤 Author
-**Rutikesh Pawar**  
+**Vaishnavi Surwade** 
 🎓 Data Analyst | Excel | SQL | Power BI | Tableau
 ---
